@@ -1,0 +1,1 @@
+# sgminer-x16r
